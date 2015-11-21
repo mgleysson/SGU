@@ -9,7 +9,6 @@
 #include <conio.h>
 #include <ctype.h>
 #include "entidades.c"
-#include "arquivos_gerados.c"
 
 int contadorDisciplinas = 0;
 int contadorAlunos = 0, contTurma1 = 0, contTurma2 = 0;
@@ -355,9 +354,6 @@ void listar_alunos(){
 
 }
 void filtrar_registros(){
-
-
-
 
     int op;
     printf("BUSCAR ALUNOS\n");
