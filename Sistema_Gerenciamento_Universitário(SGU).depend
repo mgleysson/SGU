@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1447603206 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\aluno.c
+	<stdio.h>
+	<stdlib.h>
+
+1446961961 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\arquivos_gerados.c
+
+1447678076 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\entidades.c
+
+1447638398 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\main.c
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	"arquivos_gerados.c"
+	"SGU.h"
+
+1446961961 d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\arquivos_gerados.c
+
+1447304480 d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\sgu.h
+
+1447638528 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\menu_principal.c
+	<stdio.h>
+	<stdlib.h>
+
+1447598591 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\professor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entidades.c"
+	"arquivos_gerados.c"
+
+1447678076 d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\entidades.c
+
+1447300931 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\rascunho.c
+	<stdlib.h>
+	<string.h>
+
+1447641959 source:d:\marcos\ciência da computação - ufal - 2015.1\1º perÍodo\programação 1\projeto - sistema universitário\sistema_gerenciamento_universitário(sgu)\administrador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"entidades.c"
+	"arquivos_gerados.c"
+

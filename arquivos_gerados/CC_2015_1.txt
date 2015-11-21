@@ -1,0 +1,21 @@
+Aluno 1:
+Matrícula 5:
+Nome completo: Marcos Silva Santos
+Turma: Ciência da Computação - 2015.1
+
+----------------------------------------------------------------
+
+Aluno 2:
+Matrícula 4:
+Nome completo: Marcos Fernando Lima
+Turma: Ciência da Computação - 2015.1
+
+----------------------------------------------------------------
+
+Aluno 3:
+Matrícula 7:
+Nome completo: Bruno Silva Lima
+Turma: Ciência da Computação - 2015.1
+
+----------------------------------------------------------------
+

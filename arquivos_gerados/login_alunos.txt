@@ -1,0 +1,59 @@
+Aluno 1: Marcos Silva Santos
+
+Nome de usuário: marcos
+Senha: 123
+----------------------------------------------------------
+Aluno 2: Marcos Fernando Lima
+
+Nome de usuário: fernando
+Senha: 123
+----------------------------------------------------------
+Aluno 3: Bruno Silva Lima
+
+Nome de usuário: bruno
+Senha: 345
+----------------------------------------------------------
+Aluno 4: Ana Silva Lima
+
+Nome de usuário: ana
+Senha: 567
+----------------------------------------------------------
+Aluno 5: Maria Lima Santos
+
+Nome de usuário: maria
+Senha: 678
+----------------------------------------------------------
+Aluno 1: MARCOS SILVA SANTOS
+
+Nome de usuário: marcos
+Senha: 135
+----------------------------------------------------------
+Aluno 2: Marcos Fernando Lima
+
+Nome de usuário: marcos2
+Senha: 567
+----------------------------------------------------------
+Aluno 3: Bruno Silva Lima
+
+Nome de usuário: dasd
+Senha: dasd
+----------------------------------------------------------
+Aluno 4: Ana Silva Lima
+
+Nome de usuário: dasda
+Senha: dasd
+----------------------------------------------------------
+Aluno 5: Maria Lima Santos
+
+Nome de usuário: dadas
+Senha: dasdsa
+----------------------------------------------------------
+Aluno 6: joao silva santos
+
+Nome de usuário: dasdas
+Senha: dadas
+----------------------------------------------------------
+Aluno 2: Marcos Fernando Lima
+
+Aluno 2: Marcos Fernando Lima
+
